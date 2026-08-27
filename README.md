@@ -38,12 +38,18 @@
 
 ## 安装
 
-**Claude Code：**
+**一键安装（推荐，skills CLI）：**
+
+```bash
+npx skills add voke0086/knowledge-forge
+```
+
+**Claude Code 手动安装：**
 
 ```bash
 git clone https://github.com/voke0086/knowledge-forge.git
-mkdir -p ~/.claude/skills/炼知引擎
-cp knowledge-forge/SKILL.md ~/.claude/skills/炼知引擎/SKILL.md
+mkdir -p ~/.claude/skills/knowledge-forge
+cp knowledge-forge/skills/knowledge-forge/SKILL.md ~/.claude/skills/knowledge-forge/SKILL.md
 ```
 
 **Claude 桌面端：** 设置 → Capabilities → Skills → 上传本技能文件夹。
