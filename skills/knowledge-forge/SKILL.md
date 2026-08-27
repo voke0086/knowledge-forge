@@ -1,6 +1,6 @@
 ---
 name: knowledge-forge
-description: Turn anything you save (links, images, videos, audio, documents) into reusable, sellable skills for your AI agent. Use when the user feeds any material and asks to extract, distill, summarize into a skill/technique, auto-classify, link with existing knowledge, or combine/optimize. Triggers include "digest this", "turn this video into a skill", "提炼成技能", "投喂", "消化一下", "蒸馏". A nine-step pipeline (global understanding -> multi-perspective extraction -> distillation -> quality verification -> auto-classification -> retrieval & linking -> cross-file integration -> combination -> stress testing -> commercial evaluation) turns raw material into a local knowledge base of reusable skill ingots. Free lite version; the full version is linked in the repo README.
+description: Turn anything you save (links, images, videos, audio, documents) into reusable, sellable skills for your AI agent. Use when the user feeds any material and asks to extract, distill, summarize into a skill/technique, auto-classify, link with existing knowledge, or combine/optimize. Triggers include "digest this", "turn this video into a skill", "提炼成技能", "投喂", "消化一下", "蒸馏". An eleven-step pipeline (global understanding -> multi-perspective extraction -> distillation -> quality verification -> auto-classification -> retrieval & linking -> cross-file integration -> combination -> stress testing -> commercial evaluation) turns raw material into a local knowledge base of reusable skill ingots. Free lite version; the full version is linked in the repo README.
 ---
 
 # 炼知引擎（Knowledge Forge）· 免费精简版
@@ -25,7 +25,7 @@ description: Turn anything you save (links, images, videos, audio, documents) in
 
 ---
 
-## 九步流水线
+## 流水线总览（十一道工序）
 
 ### 第0步 · 全局理解
 
