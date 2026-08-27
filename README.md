@@ -75,7 +75,7 @@ cp knowledge-forge/skills/knowledge-forge/SKILL.md ~/.claude/skills/knowledge-fo
 - 商业评估五维完整工具（含分段判定线、置信度加权公式与定价对标）
 - 终身 v1.x 更新
 
-在 [Gumroad]() / [爱发电]() 有售（上架后链接更新至此）。免费版不会阉割核心流水线——付费版买的是完整门禁与持续更新，这是同一作者的持续创作支持。
+在 [Gumroad]() / [爱发电](https://afdian.com/a/voke0086) 有售（Gumroad 链接上架后更新）。免费版不会阉割核心流水线——付费版买的是完整门禁与持续更新，这是同一作者的持续创作支持。
 
 ⭐ 如果它帮你把收藏夹变成了能力库，给个 Star 让更多人看到。
 
