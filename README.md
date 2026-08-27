@@ -41,7 +41,7 @@
 **Claude Code：**
 
 ```bash
-git clone https://github.com/{你的用户名}/knowledge-forge.git
+git clone https://github.com/voke0086/knowledge-forge.git
 mkdir -p ~/.claude/skills/炼知引擎
 cp knowledge-forge/SKILL.md ~/.claude/skills/炼知引擎/SKILL.md
 ```
